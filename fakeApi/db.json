@@ -1,0 +1,22 @@
+{
+  "carts": [
+    {
+      "id": 1,
+      "name": "shoes",
+      "price": 100000,
+      "img" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.sJU9QiDMKcQh6-6hzwPPsAHaHa%26pid%3DApi&f=1&ipt=66efb3ac6320a42977c0c1261346b111ba28bb7599b2cdced37478e41d8b8d54&ipo=images"
+    },
+    {
+      "id" : 2,
+      "name" : " Erigo-Tshirt",
+      "price" : 50000,
+      "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.U6nypwIrPc6kgUXB2KG5ewHaIg%26pid%3DApi&f=1&ipt=ed604f3ed8ed7c067bba0da796595ed0ec369ceb5c9532fa60f5612f6686c598&ipo=images" 
+    }, 
+    {
+      "id" : 3,
+      "name" : "Travel-laptop",
+      "price" : 215000,
+      "img" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.J9CgrEcGL6y6nHfJRqrJlQHaHa%26pid%3DApi&f=1&ipt=99ffdf0861bcd955562f0a6937c312a6d0c48a9e6a163a6a1fedab793cdcb202&ipo=images"
+    }
+  ]
+}
